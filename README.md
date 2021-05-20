@@ -1,1 +1,1 @@
-test Jenkins + test noti
+test Jenkins
